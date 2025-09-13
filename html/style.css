@@ -1,0 +1,20 @@
+.hidden {
+    display: none;
+}
+
+.working .status-text {
+    color: #10b981;
+}
+
+.working .instruction {
+    background: #7f1d1d;
+    border-color: #dc2626;
+}
+
+.working .key-indicator {
+    background: #dc2626;
+}
+
+.working .instruction span {
+    color: #fca5a5;
+}
